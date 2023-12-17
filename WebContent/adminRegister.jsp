@@ -1,5 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
+<!-- This comment is added by nouhaila -->
+<%-- This comment is added by nouhaila --%>
+
 <html lang="en">
 
 <head>
@@ -23,7 +26,7 @@
                     <div class="col-lg-7">
                         <div class="p-5">
                             <div class="text-center">
-                                <h1 class="h4 text-gray-900 mb-4">Créer un compte!</h1>
+                                <h1 class="h4 text-gray-900 mb-4">CrÃ©er un compte!</h1>
                             </div>
                             <form class="user">
                                 <div class="form-group row">
