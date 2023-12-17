@@ -2,6 +2,8 @@
     pageEncoding="ISO-8859-1"%>
 <!-- This comment is added by nouhaila -->
 <%-- This comment is added by nouhaila --%>
+<!-- This comment is added by salma -->
+<%-- This comment is added by salma --%>
 <html lang="en">
 
 <head>
