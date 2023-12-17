@@ -3,6 +3,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>
 <html lang="en">
+<%-- This comment is for demonstration purposes in a Git/GitHub class presentation and will not appear in the HTML source code. --%>
 
 <head>
 <!-- INCLUDE HEADER -->
@@ -50,7 +51,7 @@
                                     <thead>
                                         <tr>
                                             <th>Nom</th>
-                                            <th>Prénom</th>
+                                            <th>PrÃ©nom</th>
                                             <th>Date Naissance</th>
                                             <th>Adresse</th>
                                             <th>Login</th>
@@ -59,7 +60,7 @@
                                     <tfoot>
                                         <tr>
                                             <th>Nom</th>
-                                            <th>Prénom</th>
+                                            <th>PrÃ©nom</th>
                                             <th>Date Naissance</th>
                                             <th>Adresse</th>
                                             <th>Login</th>
@@ -113,7 +114,7 @@
                 <div class="modal-header">
                     <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
                     <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">×</span>
+                        <span aria-hidden="true">Ã—</span>
                     </button>
                 </div>
                 <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
